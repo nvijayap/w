@@ -15,8 +15,8 @@ v stands for vegetables -
   4. Mulangi (Radish)
   5. Carrot
   6. Tomato
-  7. Potato - Sparingly
-  8. Onion - Sparingly
+  7. Potato
+  8. Onion
   9. Plaintain/Banana Flower
   10. Suran (Elephant Yam) - Brown on the outside, orange inside
   11. Genasu Gadde, Tarrow Root
@@ -30,5 +30,6 @@ v stands for vegetables -
 n stands for nuts -
   1. Cashew
   2. Almond
-  3. Banana Chips
+  3. Peanuts
+  4. Banana Chips
   
