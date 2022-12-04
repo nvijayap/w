@@ -1,4 +1,6 @@
 # w
+
+## w
 w stands for -
   1. who
   2. why
@@ -32,4 +34,8 @@ n stands for nuts -
   2. Almond
   3. Peanuts
   4. Banana Chips
+  
+## whoami
+  1. https://en.wikipedia.org/wiki/Whoami
+  2. https://www.sriramanamaharshi.org/wp-content/uploads/2012/12/who_am_I.pdf
   
