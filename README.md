@@ -29,11 +29,14 @@ v stands for vegetables -
   17. Jack fruit seeds - in Sambar
 
 ## n
-n stands for nuts -
-  1. Cashew
-  2. Almond
-  3. Peanuts
-  4. Banana Chips
+n stands for nuts - aka snacks -
+  1. Peas
+  2. Cashew
+  3. Almond
+  4. Peanuts
+  5. Pistachio
+  6. Banana Chips
+  7. Potato Chips
   
 ## whoami
   1. https://en.wikipedia.org/wiki/Whoami
