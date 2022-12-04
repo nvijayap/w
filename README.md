@@ -27,6 +27,20 @@ v stands for vegetables -
   15. Cucumber
   16. Squash
   17. Jack fruit seeds - in Sambar
+  18. Cabbage
+  19. Hirekayi
+  20. Karli
+  21. Potlakayi - Snake Gourd
+  22. Birakayi
+  23. Dosakayi
+  24. Dodmanchinkayi - different colors - green, red, orange
+  25. Sorakayi - Bottle Gourd
+  26. Blackeye Peas
+  27. Blackbeans
+  28. Refried (Brown) Beans
+  29. Beans
+  30. Methi leaves
+  31. Dill leaves
 
 ## n
 n stands for nuts - aka snacks -
@@ -41,4 +55,3 @@ n stands for nuts - aka snacks -
 ## whoami
   1. https://en.wikipedia.org/wiki/Whoami
   2. https://www.sriramanamaharshi.org/wp-content/uploads/2012/12/who_am_I.pdf
-  
