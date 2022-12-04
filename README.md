@@ -52,6 +52,34 @@ n stands for nuts - aka snacks -
   6. Banana Chips
   7. Potato Chips
   
+## r
+r stands for rice -
+  1. Basmati Rice
+  2. Broken Wheat Rice
+  3. Pongal
+  4. Puliogare
+  5. Bisibelebath
+  
+## s
+s stands for soups -
+  1. Sar - Rasam
+  2. Sambar
+  3. Kadi
+  4. Ambatbaji
+  5. Kut
+  6. Methkut
+  
+## t
+t stands for tiffin
+  1. Chapati
+  2. Puri
+  3. Idli
+  4. Dosa
+  5. Vada
+  6. Bonda
+  7. Bajji
+  8. Pakoda
+  
 ## whoami
   1. https://en.wikipedia.org/wiki/Whoami
   2. https://www.sriramanamaharshi.org/wp-content/uploads/2012/12/who_am_I.pdf
