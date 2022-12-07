@@ -19,28 +19,34 @@ v stands for vegetables -
   6. Tomato
   7. Potato
   8. Onion
-  9. Plaintain/Banana Flower
+  9. Plantain/Banana Flower
   10. Suran (Elephant Yam) - Brown on the outside, orange inside
   11. Genasu Gadde, Tarrow Root
-  13. Gordan Sengha - Gori Kayi
-  14. Brinjal - (Violet, Green, Black)
-  15. Cucumber
-  16. Squash
-  17. Jack fruit seeds - in Sambar
-  18. Cabbage
-  19. Hirekayi
-  20. Karli
-  21. Potlakayi - Snake Gourd
-  22. Birakayi
-  23. Dosakayi
-  24. Dodmanchinkayi - different colors - green, red, orange
-  25. Sorakayi - Bottle Gourd
-  26. Blackeye Peas
-  27. Blackbeans
-  28. Refried (Brown) Beans
-  29. Beans
-  30. Methi leaves
-  31. Dill leaves
+  12. Gordan Sengha - Gori Kayi
+  13. Brinjal - (Violet, Green, Black)
+  14. Cucumber
+  15. Squash
+  16. Jack fruit seeds - in Sambar
+  17. Cabbage
+  18. Hirekayi
+  19. Karli
+  20. Potlakayi - Snake Gourd
+  21. Birakayi
+  22. Dosakayi
+  23. Dodmenchinkayi - different colors - green, red, orange
+  24. Sorakayi - Opa, Bottle Gourd
+  25. Blackeye Peas
+  26. Blackbeans
+  27. Refried (Brown) Beans
+  28. Beans
+  29. Methi leaves
+  30. Dill leaves
+  31. Thondekayi
+  32. Brocolli
+  33. Choyote Squash
+  34. Cauliflower
+  35. Sweet Potato
+  36. Pearl Onion
 
 ## n
 n stands for nuts - aka snacks -
