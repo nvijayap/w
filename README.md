@@ -1,5 +1,7 @@
 # w
 
+This page touches on various topics ranging from material to metaphysical to spiritual
+
 ## w
 w stands for -
   1. who
@@ -7,7 +9,8 @@ w stands for -
   3. what
   4. where
   5. when
-  6. ho**w** - ends with w
+  6. whoami - when the answer is found ...
+  7. ho**w** - ends with w, so included here
   
 ## v
 v stands for vegetables -
@@ -89,3 +92,7 @@ t stands for tiffin
 ## whoami
   1. https://en.wikipedia.org/wiki/Whoami
   2. https://www.sriramanamaharshi.org/wp-content/uploads/2012/12/who_am_I.pdf
+
+## Deities/Saints
+  1. [Dattatreya](https://en.wikipedia.org/wiki/Dattatreya)
+  
