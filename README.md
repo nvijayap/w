@@ -98,4 +98,11 @@ t stands for tiffin
   1. [Dattatreya](https://en.wikipedia.org/wiki/Dattatreya)
   2. [Sripada Sri Vallabha](https://en.wikipedia.org/wiki/Sripada_Sri_Vallabha)
   3. [Narasimha Saraswati](https://en.wikipedia.org/wiki/Narasimha_Saraswati)
+  4. [Manik Prabhu](https://en.wikipedia.org/wiki/Manik_Prabhu)
+  5. [Swami Samarth](https://en.wikipedia.org/wiki/Swami_Samarth)
+  6. [Sai Baba of Shirdi](https://en.wikipedia.org/wiki/Sai_Baba_of_Shirdi)
+  7. [Upasni Maharaj](https://en.wikipedia.org/wiki/Upasani_Maharaj)
+  8. [Meher Baba](https://en.wikipedia.org/wiki/Meher_Baba)
+  9. []()
+  10. 
   
