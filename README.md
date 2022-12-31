@@ -96,5 +96,5 @@ t stands for tiffin
 
 ## Deities/Saints
   1. [Dattatreya](https://en.wikipedia.org/wiki/Dattatreya)
-  2. (Sripada Sri Vallabha)[https://en.wikipedia.org/wiki/Sripada_Sri_Vallabha]
+  2. [Sripada Sri Vallabha](https://en.wikipedia.org/wiki/Sripada_Sri_Vallabha)
   
