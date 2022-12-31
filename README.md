@@ -90,8 +90,9 @@ t stands for tiffin
   8. Pakoda
   
 ## whoami
-  1. https://en.wikipedia.org/wiki/Whoami
-  2. https://www.sriramanamaharshi.org/wp-content/uploads/2012/12/who_am_I.pdf
+  1. [In General - Who Am I?](https://en.wikipedia.org/wiki/Who_Am_I%3F)
+  2. [In Computing - whoami](https://en.wikipedia.org/wiki/Whoami)
+  2. [Per Bhagavan Ramana Maharshi - Who Am I?](https://www.sriramanamaharshi.org/wp-content/uploads/2012/12/who_am_I.pdf)
 
 ## Deities/Saints
   1. [Dattatreya](https://en.wikipedia.org/wiki/Dattatreya)
