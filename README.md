@@ -94,7 +94,7 @@ t stands for tiffin
   2. [In Computing - whoami](https://en.wikipedia.org/wiki/Whoami)
   2. [Per Bhagavan Sri Ramana Maharshi - Who Am I?](https://www.sriramanamaharshi.org/wp-content/uploads/2012/12/who_am_I.pdf)
 
-## Deities/Saints
+## Deities/Saints in the Dattatreya line
   1. [Dattatreya](https://en.wikipedia.org/wiki/Dattatreya)
   2. [Sripada Sri Vallabha](https://en.wikipedia.org/wiki/Sripada_Sri_Vallabha)
   3. [Narasimha Saraswati](https://en.wikipedia.org/wiki/Narasimha_Saraswati)
@@ -103,6 +103,27 @@ t stands for tiffin
   6. [Sai Baba of Shirdi](https://en.wikipedia.org/wiki/Sai_Baba_of_Shirdi)
   7. [Upasni Maharaj](https://en.wikipedia.org/wiki/Upasani_Maharaj)
   8. [Meher Baba](https://en.wikipedia.org/wiki/Meher_Baba)
-  9. []()
-  10. 
   
+## The Supreme Trio
+  1. Bramha
+  2. Vishnu
+  3. Siva
+
+## Many other notable saints
+  1. [Adi Sankaracharya]()
+  2. [Bhagavan Sri Ramana Maharshi]()
+  3. [Ramakrishna Paramahansa]()
+  4. [Swami Vivekananda]()
+  5. [Mata Anandamayi]()
+  
+## Poets
+  1. [Nannayya]()
+  2. [Tikkana]()
+  3. [Errana]()
+  4. [Potana]()
+  5. [Yogi Vemana]()
+  6. [Srinatha]()
+
+## Books
+  1. [God Speaks]()
+  2. 
