@@ -120,7 +120,7 @@ t stands for tiffin
   1. [Nannayya]()
   2. [Tikkana]()
   3. [Errana]()
-  4. [Potana]()
+  4. [Pothana](https://en.wikipedia.org/wiki/Pothana)
   5. [Yogi Vemana]()
   6. [Srinatha]()
 
