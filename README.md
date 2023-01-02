@@ -105,9 +105,9 @@ t stands for tiffin
   8. [Meher Baba](https://en.wikipedia.org/wiki/Meher_Baba) 1894 to 1969
   
 ## The Supreme Trio
-  1. Bramha
-  2. Vishnu
-  3. Siva
+  1. [Brahma](https://en.wikipedia.org/wiki/Brahma)
+  2. [Vishnu](https://en.wikipedia.org/wiki/Vishnu)
+  3. [Shiva](https://en.wikipedia.org/wiki/Shiva)
 
 ## Many other notable saints
   1. [Adi Sankaracharya]()
