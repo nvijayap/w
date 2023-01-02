@@ -100,9 +100,9 @@ t stands for tiffin
   3. [Narasimha Saraswati](https://en.wikipedia.org/wiki/Narasimha_Saraswati)
   4. [Manik Prabhu](https://en.wikipedia.org/wiki/Manik_Prabhu)
   5. [Swami Samarth](https://en.wikipedia.org/wiki/Swami_Samarth)
-  6. [Sai Baba of Shirdi](https://en.wikipedia.org/wiki/Sai_Baba_of_Shirdi)
-  7. [Upasni Maharaj](https://en.wikipedia.org/wiki/Upasani_Maharaj)
-  8. [Meher Baba](https://en.wikipedia.org/wiki/Meher_Baba)
+  6. [Sai Baba of Shirdi](https://en.wikipedia.org/wiki/Sai_Baba_of_Shirdi) to 1918
+  7. [Upasni Maharaj](https://en.wikipedia.org/wiki/Upasani_Maharaj) 
+  8. [Meher Baba](https://en.wikipedia.org/wiki/Meher_Baba) 1894 to 1969
   
 ## The Supreme Trio
   1. Bramha
@@ -117,12 +117,12 @@ t stands for tiffin
   5. [Mata Anandamayi]()
   
 ## Poets
-  1. [Nannayya]()
-  2. [Tikkana]()
-  3. [Errana]()
-  4. [Pothana](https://en.wikipedia.org/wiki/Pothana)
-  5. [Yogi Vemana]()
-  6. [Srinatha]()
+  1. [Nannayya](https://en.wikipedia.org/wiki/Nannayya) 11th century
+  2. [Tikkana](https://en.wikipedia.org/wiki/Tikkana) 1205 to 1288
+  3. [Erranna](https://en.wikipedia.org/wiki/Yerrapragada) 14th century
+  4. [Pothana](https://en.wikipedia.org/wiki/Pothana) 1450 to 1510
+  5. [Yogi Vemana](https://en.wikipedia.org/wiki/Vemana) 17th century
+  6. [Srinatha](https://en.wikipedia.org/wiki/Srinatha) 1365-1370 to 1441 (aged 71-76)
 
 ## Books
   1. [God Speaks](https://en.wikipedia.org/wiki/God_Speaks)
