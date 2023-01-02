@@ -124,6 +124,29 @@ t stands for tiffin
   5. [Yogi Vemana](https://en.wikipedia.org/wiki/Vemana) 17th century
   6. [Srinatha](https://en.wikipedia.org/wiki/Srinatha) 1365-1370 to 1441 (aged 71-76)
 
+## Actors
+  1. Prithviraj Kapoor
+  2. Chittoor Nagayya
+  3. Devanand
+  4. Raj Kapoor
+  5. Dilip Kumar
+  6. Shammi Kapoor
+  7. Raaj Kumar
+  8. Dharmendra
+  9. Johnny Walker
+  10. Pran
+  11. Kaikala Sathyanarayana
+  12. NTR
+  13. ANR
+  14. Krishna
+  15. Jitendra
+  16. Feroz Khan
+  17. Amjad Khan
+  18. Amitabh Bachchan
+  19. Vinod Khanna
+  20. Sashi Kapoor
+  21. Rishi Kapoor
+
 ## Books
   1. [God Speaks](https://en.wikipedia.org/wiki/God_Speaks)
   2. 
