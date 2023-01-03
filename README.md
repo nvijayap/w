@@ -2,9 +2,23 @@
 
 This page touches on various topics ranging from material to metaphysical to spiritual
 
-## Table of Contents  
+## Table of Contents
+
 [w](#w)
+
 [v](#v)
+
+[n](#n)
+
+[r](#r)
+
+[s](#s)
+
+[t](#t)
+
+[whoami](#whoami)
+
+
 
 ## w
 w stands for -
