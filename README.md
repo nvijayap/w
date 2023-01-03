@@ -2,6 +2,10 @@
 
 This page touches on various topics ranging from material to metaphysical to spiritual
 
+## Table of Contents  
+[w](#w)
+[v](#v)
+
 ## w
 w stands for -
   1. who
