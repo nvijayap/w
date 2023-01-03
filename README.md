@@ -4,19 +4,13 @@ This page touches on various topics ranging from material to metaphysical to spi
 
 ## Table of Contents
 
-[w](#w)
-
-[v](#v)
-
-[n](#n)
-
-[r](#r)
-
-[s](#s)
-
-[t](#t)
-
-[whoami](#whoami)
+  1. [w](#w)
+  2. [v](#v)
+  3. [n](#n)
+  4. [r](#r)
+  5. [s](#s)
+  6. [t](#t)
+  7. [whoami](#whoami)
 
 
 
