@@ -11,8 +11,9 @@ This page touches on various topics ranging from material to metaphysical to spi
   5. [s](#s)
   6. [t](#t)
   7. [whoami](#whoami)
-
-
+  8. [Poets](#Poets)
+  9. [Actors](#Actors)
+  10. [Books](#Books)
 
 ## w
 w stands for -
