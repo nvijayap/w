@@ -174,5 +174,5 @@ t stands for tiffin
 ## Notable Quotes
 
 ```
-I tell you all, with my Divine Authority, that you and I are not “WE,” but “ONE.” - Meher Baba
+I tell you all, with my Divine Authority, that you and I are not “WE,” but “ONE” - Meher Baba
 ```
