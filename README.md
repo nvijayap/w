@@ -163,3 +163,11 @@ t stands for tiffin
 ## Books
   1. [God Speaks](https://en.wikipedia.org/wiki/God_Speaks)
   2. 
+  
+## TRs
+
+| Date         | Test  | Component | MV  | SR      | AVG   | F | OB   |
+| ------------ | ----- | --------- | --- | --------| ----- | - | ---- |
+| Jan 13, 2023 | TSH   | TSH       | ... | ...     | ...   | . | ...  |
+| Jan 13, 2023 | CMP   | Sodium    | 131 | 136-145 | 140.5 | L | 0.93 |
+
