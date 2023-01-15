@@ -171,3 +171,8 @@ t stands for tiffin
 | Jan 13, 2023 | TSH   | TSH       | ...   | ...      | ...     | ...  | ... |
 | Jan 13, 2023 | CMP   | Sodium    | 131   | 136-145  | 140.5   | L    | 93% |
 
+## Notable Quotes
+
+```
+I tell you all, with my Divine Authority, that you and I are not “WE,” but “ONE.” - Meher Baba
+```
