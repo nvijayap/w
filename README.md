@@ -165,8 +165,11 @@ t stands for tiffin
   1. [God Speaks](https://en.wikipedia.org/wiki/God_Speaks)
   2. The Count of Monte Cristo
   3. The Guns of Navarone
-  4. Fear is the Key
-  5. Le' Miserables
+  4. Where Eagles Dare
+  5. Ice Station Zebra
+  6. Fear is the Key
+  7. Le' Miserables
+  8. HMS Ulysses
 
 ## Notable Quotes
 
