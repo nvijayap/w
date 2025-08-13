@@ -163,14 +163,10 @@ t stands for tiffin
 
 ## Books
   1. [God Speaks](https://en.wikipedia.org/wiki/God_Speaks)
-  2. 
-  
-## TRs
-
-| Date         | Test  | Component | Value | Standard | Average | Flag | %   |
-| ------------ | ----- | --------- | ----- | -------- | ------- | ---- | --- |
-| Jan 13, 2023 | TSH   | TSH       | ...   | ...      | ...     | ...  | ... |
-| Jan 13, 2023 | CMP   | Sodium    | 131   | 136-145  | 140.5   | L    | 93% |
+  2. The Count of Monte Cristo
+  3. The Guns of Navarone
+  4. Fear is the Key
+  5. Le' Miserables
 
 ## Notable Quotes
 
