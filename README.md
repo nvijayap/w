@@ -163,13 +163,13 @@ t stands for tiffin
 
 ## Books
   1. [God Speaks](https://en.wikipedia.org/wiki/God_Speaks)
-  2. The Count of Monte Cristo
-  3. The Guns of Navarone
-  4. Where Eagles Dare
-  5. Ice Station Zebra
-  6. Fear is the Key
-  7. Le' Miserables
-  8. HMS Ulysses
+  2. [The Count of Monte Cristo](https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo)
+  3. [The Guns of Navarone](https://en.wikipedia.org/wiki/The_Guns_of_Navarone_(novel))
+  4. [Where Eagles Dare](https://en.wikipedia.org/wiki/Where_Eagles_Dare)
+  5. [Ice Station Zebra](https://en.wikipedia.org/wiki/Ice_Station_Zebra_(novel))
+  6. [Fear Is the Key](https://en.wikipedia.org/wiki/Fear_Is_the_Key_(novel))
+  7. [Les Misérables](https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables)
+  8. [HMS Ulysses](https://en.wikipedia.org/wiki/HMS_Ulysses_(novel))
 
 ## Notable Quotes
 
