@@ -113,14 +113,15 @@ t stands for tiffin
   3. [Narasimha Saraswati](https://en.wikipedia.org/wiki/Narasimha_Saraswati)
   4. [Manik Prabhu](https://en.wikipedia.org/wiki/Manik_Prabhu)
   5. [Swami Samarth](https://en.wikipedia.org/wiki/Swami_Samarth)
-  6. [Sai Baba of Shirdi](https://en.wikipedia.org/wiki/Sai_Baba_of_Shirdi) to 1918
-  7. [Upasni Maharaj](https://en.wikipedia.org/wiki/Upasani_Maharaj) 
-  8. [Meher Baba](https://en.wikipedia.org/wiki/Meher_Baba) 1894 to 1969
+  6. [Sai Baba of Shirdi](https://en.wikipedia.org/wiki/Sai_Baba_of_Shirdi) `UNKNOWN` to `1918`
+      1. [Sathya Sai Baba](https://en.wikipedia.org/wiki/Sathya_Sai_Baba)   
+  8. [Upasni Maharaj](https://en.wikipedia.org/wiki/Upasani_Maharaj) 
+  9. [Meher Baba](https://en.wikipedia.org/wiki/Meher_Baba) `1894` to `1969`
   
 ## The Supreme Trio
-  1. [Brahma](https://en.wikipedia.org/wiki/Brahma)
-  2. [Vishnu](https://en.wikipedia.org/wiki/Vishnu)
-  3. [Shiva](https://en.wikipedia.org/wiki/Shiva)
+  1. [Bramha | Brahma](https://en.wikipedia.org/wiki/Brahma)
+  2. [Vishnu | Sri Mahavishnu](https://en.wikipedia.org/wiki/Vishnu)
+  3. [Shiva | Maheswara](https://en.wikipedia.org/wiki/Shiva)
 
 ## Many other notable saints
   1. [Adi Sankaracharya]()
@@ -174,5 +175,5 @@ t stands for tiffin
 ## Notable Quotes
 
 ```
-I tell you all, with my Divine Authority, that you and I are not “WE”, but “ONE” - Meher Baba
+I tell you all, with my Divine Authority, that you and I are not `WE`, but `ONE` - Meher Baba
 ```
