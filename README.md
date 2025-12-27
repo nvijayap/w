@@ -104,7 +104,7 @@ t stands for tiffin
   8. Pakoda
 
 ## Sikh_Gurus
-g stands for guru
+The 10 Sikh Gurus
   1. Guru Nanak Dev Ji (1469–1539)
   2. Guru Angad Dev Ji (1504–1552)
   3. Guru Amar Das Ji (1479–1574)
