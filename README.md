@@ -10,10 +10,11 @@ This page touches on various topics ranging from material to metaphysical to spi
   4. [r](#r)
   5. [s](#s)
   6. [t](#t)
-  7. [whoami](#whoami)
-  8. [Poets](#Poets)
-  9. [Actors](#Actors)
-  10. [Books](#Books)
+  7. [Sikh_Gurus](#Sikh_Gurus)
+  8. [whoami](#whoami)
+  9. [Poets](#Poets)
+  10. [Actors](#Actors)
+  11. [Books](#Books)
 
 ## w
 w stands for -
@@ -101,7 +102,20 @@ t stands for tiffin
   6. Bonda
   7. Bajji
   8. Pakoda
-  
+
+## Sikh_Gurus
+g stands for guru
+  1. Guru Nanak Dev Ji (1469–1539)
+  2. Guru Angad Dev Ji (1504–1552)
+  3. Guru Amar Das Ji (1479–1574)
+  4. Guru Ram Das Ji (1534–1581)
+  5. Guru Arjan Dev Ji (1563–1606)
+  6. Guru Har Gobind Sahib Ji (1595–1644)
+  7. Guru Har Rai Sahib Ji (1630–1661)
+  8. Guru Har Krishan Sahib Ji (1656–1664)
+  9. Guru Tegh Bahadur Sahib Ji (1621–1675)
+  10. Guru Gobind Singh Ji (1666–1708)
+
 ## whoami
   1. [In General - Who Am I?](https://en.wikipedia.org/wiki/Who_Am_I%3F)
   2. [In Computing - whoami](https://en.wikipedia.org/wiki/Whoami)
